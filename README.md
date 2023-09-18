@@ -1,6 +1,8 @@
 # My Website
 
-สามารถอ่านได้ Blog ได้จาก link นี้
+สามารถอ่านได้ Blog ได้จาก link นี้ [Click](https://ratchaphon1412-blog.vercel.app/)
+
+https://ratchaphon1412-blog.vercel.app/
 
 หรือ ลง Blog ได้ จากวิธีการข้างล่าง
 
